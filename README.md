@@ -9,11 +9,8 @@ A script for the game only up! Click a hotkey to set mouse, fps settings!
 5. Click Setup and follow the instructions
 6. When setup is finished open up script.exe
 7. Enjoy the script!
-
-### Keybinds
-If you want a keybind that is not default go to this website: https://w3c.github.io/uievents/tools/key-event-viewer.html and press the key you want to assign and write the green keyCode into the setup.exe.
-Like if you want Shift the keycode for Shift is just Shift.
-#### Video Below showing that better 
+8. OBS! ONLY NEED TO RUN SETUP.EXE ONCE OR WHEN TO CHANGE MOUSE SENS OR HOTKEYS
+9. VIDEO TUTORIAL BELOW
 
 ### DEFAULT SETTINGS
 1. Main Set Settings hotkey: v
