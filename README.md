@@ -11,6 +11,7 @@ A script for the game only up! Click a hotkey to set mouse, fps settings!
 7. Enjoy the script!
 8. OBS! ONLY NEED TO RUN SETUP.EXE ONCE OR WHEN TO CHANGE MOUSE SENS OR HOTKEYS
 9. VIDEO TUTORIAL BELOW
+10. https://www.youtube.com/watch?v=o1edvNKWZuw
 
 ### DEFAULT SETTINGS
 1. Main Set Settings hotkey: v
@@ -20,6 +21,7 @@ A script for the game only up! Click a hotkey to set mouse, fps settings!
 5. Set 120 FPS: l 
 
 ### VIDEO SHOWING HOW TO INSTALL
+https://www.youtube.com/watch?v=o1edvNKWZuw
 
 
 ### IF the script is not working
